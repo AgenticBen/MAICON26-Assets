@@ -1,0 +1,17 @@
+dimension,submetric,trust_insights,deloitte,mckinsey,bcg
+Presence,Total Mentions (90 days),5000,85000,120000,60000
+Presence,Unique Domains Mentioning,800,12000,15000,8000
+Presence,News Mentions (90 days),400,8000,10000,5500
+Presence,Blog/Podcast Mentions (90 days),150,4000,5500,2500
+Presence,YouTube Content Volume,30,400,600,250
+Presence,Author Diversity (Distinct Bylines),80,1200,1800,900
+Appearance,Domain Rating (0-100),72,92,94,90
+Appearance,Referring Domains (DoFollow),4500,180000,220000,140000
+Appearance,Organic Keyword Count,35000,2500000,3200000,1800000
+Appearance,Top Pages by Traffic (>1K/month),120,18000,25000,12000
+Appearance,Backlink Quality (Avg Domain Rating),55,78,82,76
+Relevance,Metadata Score (0-100),88,72,75,70
+Relevance,Content Score (0-100),82,65,70,68
+Relevance,Schema Score (0-100),78,55,60,52
+Relevance,Alignment Score (0-100),85,68,72,65
+Relevance,AI Crawler Accessibility (0-4),4,3,4,3
